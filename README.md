@@ -1,3 +1,5 @@
+###Please note that this has been superseded by crypt_arb_LFS
+
 crypt_arb
 So the idea behind this is basically that 
 A) there are very many different exchanges for any given currency, making delta hedging quite easy
